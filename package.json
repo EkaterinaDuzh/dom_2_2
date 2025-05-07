@@ -14,7 +14,7 @@
     "preshow:dist": "npm run build",
     "show:dist": "http-server dist"
   },
-  "author": "coursar",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "7.26.4",
@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EkaterinaDuzh/events.git"
+    "url": "git+https://github.com/EkaterinaDuzh/dom_2_2.git"
   },
   "bugs": {
-    "url": "https://github.com/EkaterinaDuzh/events/issues"
+    "url": "https://github.com/EkaterinaDuzh/dom_2_2/issues"
   },
-  "homepage": "https://github.com/EkaterinaDuzh/events#readme"
+  "homepage": "https://github.com/EkaterinaDuzh/dom_2_2#readme"
 }
